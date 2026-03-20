@@ -1,0 +1,5 @@
+node_modules/
+.marktguru/
+.env
+*.log
+.DS_Store
